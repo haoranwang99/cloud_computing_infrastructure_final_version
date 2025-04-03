@@ -52,11 +52,9 @@ cloud_infrastructure_project/
 ## 🛠 Technologies Used
 
 - **Python** – Core logic for user simulation, proxies, management
-- **Flask / Jinja2** – For rendering the dashboard
+- **Flask** – For rendering the dashboard
 - **HAProxy** – Load balancing
 - **HTML/CSS** – Dashboard frontend
-- **Linux / Subprocess / OS** – Process management and shell execution
-- **Threading / Queues** – Asynchronous task handling
 
 ---
 
@@ -115,15 +113,6 @@ The dashboard (`index.html`) shows:
 - ✅ Dashboard for real-time status
 - ✅ Lightweight and modular codebase
 - ✅ End-to-end cloud-like simulation
-
----
-
-## 🧠 Learning Objectives
-
-- Understand cloud resource provisioning and elasticity
-- Build load-balancing logic
-- Explore user/job simulation at scale
-- Practice managing distributed services with Python
 
 ---
 
